@@ -14,6 +14,17 @@ Use Cases: Rental Car Company - A worker for a rental car company wants to check
 
 Taxi Company: A worker for a Taxi company needs to update a log for a taxi thats recently been inspected and had maintenance. To do this, The worker would potentially open the software/system, select the vehicle that needs updating, input info, upload invoice image, and save/close the system.
 
+Semi Truck (persona)
+Semi Trucks, also known as eighteen wheelers, are tractor units and semi trailers used to carry freight.It is composed of two to three axels used to transport heavy duty machinery. The most common semi truck is a foward drive, one steering axel and two drive axel truck. Its cargo trailer has dual wheels (eight tires) yet it is able to has single or dual tires.
+Semi trucks need a lot of maintainance due to them being used to transport freight far distances. Keeping up with the maintainance will keep track of the trucks inspections. With buying a semi truck, its inspections play a big part in deciding which semi is right for you, especially an entrepreneurship. 
+
+Semi Truck (scenario)
+A customer wants to purchase a semi truck to incorporate into their own trucking company. Our company has the paperwork that includes the condition of every semi truck in our possession. We review the paperwork with the customer to ensure it meets their expectations. Various semi trucks have various functions that are designed for specific tasks. Keeping up with the paperwork displays the maintainance and care of the truck without having to spend numerous hours discussing issues.
+
+Semi Truck (user stories) 
+1)As a company, we want to take the hassal of obtaining a semi truck become a speedy process.
+2)We want to provide all the correct maintainance and care of our vehicles to our customers.
+3)We want our customers to be comfortable with discussing any issues they have with our company and even more our services. 
 
 Feature list  
 Features from product vision  
